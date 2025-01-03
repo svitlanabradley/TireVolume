@@ -8,7 +8,7 @@ The program:
 
 ◈ calculates the correct tire volume.
 
-◈ priints the tire volume to the terminal window with no more than two digits after the decimal point.
+◈ prints the tire volume to the terminal window with no more than two digits after the decimal point.
 
 ◈ imports datetime.
 
